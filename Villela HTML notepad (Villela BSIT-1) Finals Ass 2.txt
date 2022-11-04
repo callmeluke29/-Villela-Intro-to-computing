@@ -1,0 +1,33 @@
+!DOCTYPE html
+html
+header
+	title Villela, Caleb Josh G. HTMLtitle
+	h1H1 Test 1h1
+	h2H2 Test 2h2
+	h3H3 Test 3h3
+	h4H4 Test 4h4
+	h5H5 Test 5h5
+	h6H6 Test 6h6
+header
+body
+		ol type=A
+		li Order List 1 li
+		li Order List 2 li
+		li Order List 3 li
+		ol
+			hr
+		li Ordered Bullet li
+			hr
+		p style=colorblue;This is paragraph with color bluep
+			hr
+		pThis is breakbrparagraphp
+			hr
+		pre This was pre tagline pre
+			hr
+		marquee width=60% direction=left height=100px
+		p style=colorred;This is paragraph and marquee animationp
+		marquee
+body
+
+p style=font-familyBrush Script MT;-Villela Assignment.p	
+html
